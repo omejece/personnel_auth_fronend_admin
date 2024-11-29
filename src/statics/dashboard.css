@@ -1,0 +1,101 @@
+
+
+
+.sidebar-title{
+    font-size: 30px;
+}
+
+
+.pc-micon{
+    font-size: 15px;
+}
+
+.pc-mtext{
+    font-size: 17px;
+}
+
+
+.subpage-content-container{
+    width: 100%;
+    height: 70vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+
+.form-label{
+    font-size: 20px;
+}
+
+.form-content-center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0px auto;
+    width: 40%;
+}
+
+
+
+
+.page-header-container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 25%;
+}
+
+.page-content-continer{
+    width: 100%;
+    max-height: 58vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.detail-content{
+    width: 100%;
+}
+
+.detail-content{
+    height: 83.5vh;
+}
+
+.small-detail{
+    height: 200px;
+}
+
+
+.chart-detail{
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+.dashboard-content{
+    width: 100%;
+    overflow: hidden;
+}
+
+.dashboard-main-content{
+    overflow: hidden;
+}
+
+.device-info{
+    justify-content: left;
+    width: 100%;
+}
+
+.side-info-item{
+    font-size: 16px;
+    line-height: 30px;
+    width: 100%;
+}
+
+
+.action-title-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

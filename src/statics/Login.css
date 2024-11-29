@@ -1,0 +1,53 @@
+
+
+.side-image{
+    background-image: url('../statics/images/millitary_image2.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+.login-form-container{
+    padding: 20px;
+}
+
+.welcome-message-container{
+    width: 100%;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.login-welcome-message{
+    align-items: center;
+}
+
+.login-sub-welcome-message{
+
+}
+
+
+.other-links-container{
+    width: 100%;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.form-group{
+    margin-bottom: 20px;
+}
+
+.form-group > label{
+    color: black;
+    font-size: 25px;
+}
+
+.form-group > input{
+    font-size: 20px;
+}
